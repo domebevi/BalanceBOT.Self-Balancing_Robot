@@ -2,7 +2,7 @@
 #define LED_PIN 12
 #define START_PIN 12
 #define BATT_PIN A0
-#define DURATA 4000               //Durata loop in microsecondi       
+#define DURATA 4000                              //Durata loop in microsecondi       
 #define NBYTES 5                                 //Lunghezza pacchetti inviati
 
 //---------------------------------Costanti giroscopio------------------------------------------//
