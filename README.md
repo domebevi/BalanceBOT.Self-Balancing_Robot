@@ -1,4 +1,4 @@
-# Self-Balancing-Real-time-Sensing-Robot
+# Self-Balancing_Real-time_Sensing_Robot
 
 University Project (Politecnico di Bari)  
 Self-balancing 2-wheels robot, with stepper motors controlled by ArduinoUno board.  
