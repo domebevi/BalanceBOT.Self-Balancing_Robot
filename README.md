@@ -7,8 +7,8 @@ Features: PID-control logic, Kalman filter,  Bluetooth two-ways comunication, an
 
 ![alt text](https://github.com/domebevi/BalanceBOT.Self-Balancing_Robot/blob/main/image.jpg?raw=true)
 
-<a href="FINAL_REPORT.pdf" target="_blank">REPORT</a>
+<a href="FINAL_REPORT.pdf" target="_blank">Final Report</a>
 
-Video - https://youtube.com/shorts/gR7PDAymfLc?si=TlCTKDoYQ1yhZOqR  
+<a href="https://youtube.com/shorts/gR7PDAymfLc?si=TlCTKDoYQ1yhZOqR">Video</a>
   
 Credits: Domenico Bevilacqua - domebevi@gmail.com
