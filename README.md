@@ -1,4 +1,4 @@
-# Self-Balancing_Real-time_Sensing_Robot
+# Self-Balancing Real-time Sensing Robot
 
 University Project (Politecnico di Bari)  
   
